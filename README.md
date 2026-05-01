@@ -1,6 +1,16 @@
 # WordFish-Advanced-Scrabble-Solver
 WordFish, Kelimelik ve Scrabble türevi oyunlar için geliştirilmiş, uçtan uca çalışan yüksek performanslı bir hamle öneri motorudur. Görüntü işlemeden (Computer Vision) başlayarak, GADDAG veri yapısı üzerinde derinlemesine kelime arama yapan ve Android otomasyonu ile entegre çalışan bir mühendislik projesidir.
 
+Girdi:
+
+<img width="425" height="498" alt="image" src="https://github.com/user-attachments/assets/8aee0b71-9e84-4741-82ff-18bf916e44e6" /> 
+
+Çıktı:
+
+<img width="474" height="946" alt="image" src="https://github.com/user-attachments/assets/9d7b41a5-3e9a-43c8-bcaf-0c3e52f9b0c2" />
+------------------------------------
+<img width="934" height="958" alt="image" src="https://github.com/user-attachments/assets/42a54bd8-a4f6-43af-97da-a2aa9beda501" />
+
 ## 🚀 Öne Çıkan Özellikler
 
 ### 1. Gelişmiş Görüntü İşleme (Computer Vision)
